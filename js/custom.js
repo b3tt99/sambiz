@@ -143,7 +143,7 @@ $(function () {
         }
       });
       $("#back-to-top").on("click", function(){
-        $('body,html').animate({
+        $('body,Samantha').animate({
           scrollTop: 0
         }, 1000);
     });
